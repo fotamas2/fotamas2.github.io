@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lærer CD",
-    "currentPage": "index.html",
+    "currentPage": "pv.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "versionPublish": "3.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "publishType": "github",
+    "publishType": "local",
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
@@ -310,11 +310,6 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "footer1-4",
           "_params": {
             "paddingTop": "1",
@@ -328,7 +323,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Alfaskolen AS."
+          "text": "Copyright (c) 2016 Alfaskolen AS.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
@@ -444,11 +444,6 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "footer1-6",
           "_params": {
             "paddingTop": "1",
@@ -462,7 +457,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Alfaskolen AS."
+          "text": "Copyright (c) 2016 Alfaskolen AS.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -841,11 +841,6 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "footer1-8",
           "_params": {
             "paddingTop": "1",
@@ -859,7 +854,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Alfaskolen AS."
+          "text": "Copyright (c) 2016 Alfaskolen AS.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -1015,11 +1015,6 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "footer1-a",
           "_params": {
             "paddingTop": "1",
@@ -1033,7 +1028,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Alfaskolen AS."
+          "text": "Copyright (c) 2016 Alfaskolen AS.",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -1056,7 +1056,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/7169040-2000x1500-90-2000x1500-78-2000x1500-12-3.jpg",
+            "bgImage": "file:///C:/Users/Tamas/AppData/Local/Mobirise.com/Mobirise/projectData/7169040-2000x1500-90-2000x1500-78-2000x1500-12_3.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
