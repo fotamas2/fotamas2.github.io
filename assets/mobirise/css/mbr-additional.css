@@ -671,6 +671,18 @@ h6,
 #footer1-8 P {
   color: #ffffff;
 }
+#header5-m .mbr-section-title {
+  color: #fac51c;
+}
+#header5-m .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-n .mbr-section-title {
+  color: #fac51c;
+}
+#header5-n .mbr-section-lead {
+  color: #9c9a9a;
+}
 #header5-c .mbr-section-title {
   color: #fac51c;
   text-align: center;
@@ -678,6 +690,19 @@ h6,
 #header5-c .mbr-section-lead {
   color: #9c9a9a;
   text-align: right;
+}
+#features7-o .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-o .iconbox {
+  background-color: #fac51c;
+  border-color: #fac51c;
+}
+#features7-o H4 {
+  color: #fac51c;
+}
+#features7-o P {
+  color: #fac51c;
 }
 
 #menu-9 .hide-buttons .nav-btn {
@@ -751,6 +776,18 @@ h6,
 #footer1-a P {
   color: #ffffff;
 }
+#header5-p .mbr-section-title {
+  color: #41a85f;
+}
+#header5-p .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-q .mbr-section-title {
+  color: #41a85f;
+}
+#header5-q .mbr-section-lead {
+  color: #9c9a9a;
+}
 #header5-i .mbr-section-title {
   color: #41a85f;
   text-align: center;
@@ -758,4 +795,20 @@ h6,
 #header5-i .mbr-section-lead {
   color: #000000;
   text-align: center;
+}
+#header5-i .mbr-section-title SPAN {
+  color: #41a85f;
+}
+#features7-r .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-r .iconbox {
+  background-color: #41a85f;
+  border-color: #41a85f;
+}
+#features7-r H4 {
+  color: #efefef;
+}
+#features7-r P {
+  color: #ffffff;
 }
