@@ -25,7 +25,7 @@
     "versionPublish": "3.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "publishType": "github",
+    "publishType": "local",
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
