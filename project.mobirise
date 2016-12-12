@@ -21,11 +21,11 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "3.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
@@ -1285,9 +1285,9 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "HER PÅ BERGET",
+          "title": "<br><br>HER PÅ BERGET",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-q\" data-toolbar=\"-mbrBtnMove\">LYDBOK TIL TEKSTBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-i\" data-toolbar=\"-mbrBtnMove\">LYTTEOPPGAVER I ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#features7-r\" data-toolbar=\"-mbrBtnMove\">PRØVER</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-q\" data-toolbar=\"-mbrBtnMove\">LYDBOK TIL TEKSTBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-i\" data-toolbar=\"-mbrBtnMove\">LYTTEOPPGAVER I ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#features7-r\" data-toolbar=\"-mbrBtnMove\">PRØVER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-s\" data-toolbar=\"-mbrBtnMove\">LYTTETEKSTER I ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"downloads/hpb/fasit_arbeidsbok.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FASIT TIL ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"hpb.html#header5-t\" data-toolbar=\"-mbrBtnMove\">TILLEGGSOPPGAVER</a>"
         },
         {
           "_inherit": "header1",
@@ -1371,6 +1371,82 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap01.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap02.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap03.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap04.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap05.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap06.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap07.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap08.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap09.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap12.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"audio/hpb/hpb_kap13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">13</a>  "
         },
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-s",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "LYTTETEKSTER I ARBEIDSBOK",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "TILLEGGSOPPGAVER",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">6</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">7</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">8</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">12</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">13</a>"
+        },
+        {
           "_inherit": "features4",
           "_tags": [
             "Theme"
@@ -1387,7 +1463,8 @@
               "color": "#efefef"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "17px"
             }
           },
           "_name": "features7",
@@ -1422,14 +1499,15 @@
               "name": "volume-up",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://herpaberget-larer.cappelendamm.no/enkel/lydsamling.html?tid=1912571&sec_tid=1897858",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": true
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "<a href=\"downloads/hpb-prove/hpb 3.pdf\" target=\"_blank\" class=\"text-white\">PRØVE ETTER KAP. 3</a>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Fasit og lyttetekster finner du<a href=\"downloads/hpb-prove/hpb 3 fl.pdf\" target=\"_blank\"> </a><i><a href=\"downloads/hpb-prove/hpb 3 fl.pdf\" target=\"_blank\" class=\"text-white\">her</a></i>.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1438,14 +1516,15 @@
               "name": "volume-up",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://herpaberget-larer.cappelendamm.no/enkel/lydsamling.html?tid=1914403&sec_tid=1897858",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": true
             }
           },
-          "title2": "Responsive",
+          "title2": "<a href=\"downloads/hpb-prove/hpb 6.pdf\" target=\"_blank\" class=\"text-white\">PRØVE ETTER KAP. 6</a>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Fasit og lyttetekster finner du <i><a href=\"downloads/hpb-prove/hpb 6 fl.pdf\" target=\"_blank\" class=\"text-white\">her</a></i>.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1454,14 +1533,15 @@
               "name": "volume-up",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://herpaberget-larer.cappelendamm.no/enkel/lydsamling.html?tid=1914407&sec_tid=1897858",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": true
             }
           },
-          "title3": "Web Fonts",
+          "title3": "<a href=\"downloads/hpb-prove/hpb 9.pdf\" target=\"_blank\" class=\"text-white\">PRØVE ETTER KAP. 9</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Fasit og lyttetekster finner du <i><a href=\"downloads/hpb-prove/hpb 9 fl.pdf\" target=\"_blank\" class=\"text-white\">her</a></i>.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1470,14 +1550,15 @@
               "name": "volume-up",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://herpaberget-larer.cappelendamm.no/enkel/lydsamling.html?tid=1914410&sec_tid=1897858",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": true
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "<a href=\"downloads/hpb-prove/hpb 12.pdf\" target=\"_blank\" class=\"text-white\">PRØVE ETTER KAP. 12</a>",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Fasit og lyttetekster finner du <a href=\"downloads/hpb-prove/hpb 12 fl.pdf\" target=\"_blank\" class=\"text-white\">her</a>.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
