@@ -545,7 +545,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2969b0",
+              "color": "#ffffff",
               "text-align": "center"
             },
             ".mbr-section-lead": {
@@ -865,7 +865,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#efefef"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -895,7 +895,7 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "STEIN PÅ STEIN",
+          "title": "<br>STEIN PÅ STEIN",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"sps.html#header5-n\" data-toolbar=\"-mbrBtnMove\">LYDBOK TIL TEKSTBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"sps.html#header5-c\" data-toolbar=\"-mbrBtnMove\">LYTTEOPPGAVER I ARBEIDSBOK</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"sps.html#features7-o\" data-toolbar=\"-mbrBtnMove\">PRØVER</a>"
         },
@@ -903,7 +903,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -941,7 +941,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "text-align": "center"
             },
             ".mbr-section-lead": {
@@ -991,10 +991,10 @@
               "border-color": "#fac51c"
             },
             "H4": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             }
           },
           "_name": "features7",
@@ -1255,7 +1255,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#41a85f"
+              "color": "#efefef"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -1293,7 +1293,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#41a85f"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -1339,7 +1339,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "color": "#41a85f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
