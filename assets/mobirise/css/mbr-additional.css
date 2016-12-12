@@ -799,6 +799,18 @@ h6,
 #header5-i .mbr-section-title SPAN {
   color: #ffffff;
 }
+#header5-s .mbr-section-title {
+  color: #000000;
+}
+#header5-s .mbr-section-lead {
+  color: #9c9a9a;
+}
+#header5-t .mbr-section-title {
+  color: #000;
+}
+#header5-t .mbr-section-lead {
+  color: #9c9a9a;
+}
 #features7-r .card-subtitle {
   color: #bcbcbc;
 }
@@ -811,4 +823,5 @@ h6,
 }
 #features7-r P {
   color: #ffffff;
+  font-size: 17px;
 }

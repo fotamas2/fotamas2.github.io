@@ -122,7 +122,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-84.png",
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-351x128-40.jpg",
               "height": 128,
               "alt": "Alfaskolen",
               "link": "index.html#header1-3",
@@ -139,7 +139,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LÆRER CD</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pv.html#header5-j\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sps.html\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hpb.html\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-newspaper mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/alfaskolen/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.facebook.com/Alfaskolen.Oslo/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.alfaskolen.no/en/\" aria-expanded=\"false\" target=\"_blank\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" aria-expanded=\"true\" target=\"_blank\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-magnifying-glass mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(239, 239, 239);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://clu.uni.no/test/bildetema-html5/bildetema.html?version=norwegian&amp;language_selector=simple&amp;languages=eng,nno,nob&amp;language=nob&amp;page=index&amp;title=Bildetema%20-%20bokm%C3%A5l-nynorsk\" target=\"_blank\">BILDEORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://decentius.hit.uib.no/lexin.html?ui-lang=nbo\" target=\"_blank\">NORSK ORDBOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://ordbok.uib.no/perl/ordbok.cgi?OPP=+&amp;ant_bokmaal=5&amp;ant_nynorsk=5&amp;bokmaal=+&amp;ordbok=bokmaal\" target=\"_blank\">BOKMÅLSORDBOK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"http://www.klartale.no/\" aria-expanded=\"false\" target=\"_blank\" data-toggle=\"dropdown-submenu\">KURSBØKER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pv.html#header5-j\">PÅ VEI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sps.html\">STEIN PÅ STEIN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hpb.html\">HER PÅ BERGET</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://norsklab.cappelendamm.no/\" target=\"_blank\">NORSKLAB</a></li>"
         },
         {
           "_tags": [
@@ -420,7 +420,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-84.png",
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-351x128-23.jpg",
               "height": 128,
               "alt": "Alfaskolen",
               "link": "index.html",
@@ -817,7 +817,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-84.png",
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-351x128-61.jpg",
               "height": 128,
               "alt": "Alfaskolen",
               "link": "index.html",
@@ -1207,7 +1207,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drawing-416x128-84.png",
+              "src": "@PROJECT_PATH@/assets/images/alfaskolen-logo-351x128-73.jpg",
               "height": 128,
               "alt": "Alfaskolen",
               "link": "index.html",
